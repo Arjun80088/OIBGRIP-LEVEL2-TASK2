@@ -1,4 +1,4 @@
 Tribute page of APJ Abdul Kalam
 
 
-![image](https://user-images.githubusercontent.com/104100117/210109719-8011e99a-667d-4b00-860d-55d269aa9835.png)
+![image](https://user-images.githubusercontent.com/104100117/210109828-000bd50f-58fa-4394-94b8-ebb335de3c45.png)
